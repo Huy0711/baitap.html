@@ -1,0 +1,13 @@
+ li:first-child{
+    color:red;
+}
+li:first-child {
+    color: blue;
+}
+li:nth-child(2){
+    color:peru;
+}
+::first-letter{
+    font-weight: bold;
+    font-size: 32px;
+}
